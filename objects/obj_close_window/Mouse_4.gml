@@ -1,0 +1,2 @@
+instance_destroy(obj_close_up_parent)
+instance_destroy()

@@ -1,0 +1,1 @@
+instance_create_layer(x,y,"Mouse_layer",obj_mouse_notif)

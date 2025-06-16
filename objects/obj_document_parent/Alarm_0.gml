@@ -1,0 +1,1 @@
+sprite_index = global.current_document

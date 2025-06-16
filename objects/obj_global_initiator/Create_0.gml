@@ -1,0 +1,1 @@
+global.current_document = spr_document_tv_licen
