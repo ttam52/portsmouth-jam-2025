@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_document_tv_licen",
-    "path":"sprites/spr_document_tv_licen/spr_document_tv_licen.yy",
+    "name":"spr_signature_paper",
+    "path":"sprites/spr_signature_paper/spr_signature_paper.yy",
   },
   "spriteMaskId":null,
   "visible":true,

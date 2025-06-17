@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_signature_error",
-    "path":"sprites/spr_signature_error/spr_signature_error.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

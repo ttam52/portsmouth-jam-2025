@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_close_up_parent",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_border",
+  "eventList":[],
   "managed":true,
-  "name":"obj_close_up_parent",
+  "name":"obj_border",
   "overriddenProperties":[],
   "parent":{
-    "name":"documents",
-    "path":"folders/Objects/documents.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_signature_paper",
-    "path":"sprites/spr_signature_paper/spr_signature_paper.yy",
+    "name":"spr_border",
+    "path":"sprites/spr_border/spr_border.yy",
   },
   "spriteMaskId":null,
   "visible":true,

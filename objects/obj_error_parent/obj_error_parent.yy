@@ -1,10 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_error_parent",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_error_parent",
   "overriddenProperties":[],
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_signature_error",
-    "path":"sprites/spr_signature_error/spr_signature_error.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

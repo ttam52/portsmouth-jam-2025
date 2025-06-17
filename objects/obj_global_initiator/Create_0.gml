@@ -1,1 +1,5 @@
-global.current_document = spr_document_tv_licen
+global.x_scale = 0.1781818
+global.y_scale = 0.1753847
+
+global.x_large_scale = 0.6436363
+global.y_large_scale = 0.643077
