@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_signature_error",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_signature_error",
   "overriddenProperties":[],
@@ -32,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_signature_error",
+    "path":"sprites/spr_signature_error/spr_signature_error.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

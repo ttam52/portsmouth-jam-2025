@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_error_parent",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_clue_tracker",
+  "eventList":[],
   "managed":true,
-  "name":"obj_error_parent",
+  "name":"obj_clue_tracker",
   "overriddenProperties":[],
   "parent":{
-    "name":"documents",
-    "path":"folders/Objects/documents.yy",
+    "name":"specific_cases",
+    "path":"folders/Objects/documents/specific_cases.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_found_clues",
+    "path":"sprites/spr_found_clues/spr_found_clues.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

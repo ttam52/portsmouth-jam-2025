@@ -1,8 +1,4 @@
-mouse_hold = false;
-image_xscale = global.x_scale
-image_yscale = global.y_scale
-interactable = true
-locked_in = false
+alarm_set(0,1)
 
 
 //var temp = instance_create_layer(768,448,"Close_up_layer",obj_signature)
