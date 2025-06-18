@@ -1,0 +1,1 @@
+obj_clues_found_parent.alarm[1] = 1

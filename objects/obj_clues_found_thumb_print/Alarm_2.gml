@@ -1,0 +1,10 @@
+// Inherit the parent event
+event_inherited();
+
+if (instance_number(obj_text) == 0)
+{
+var temp = instance_create_layer(0,448,"Mouse_layer",obj_text)
+temp.write_text(text)
+}
+
+
