@@ -4,7 +4,7 @@ if (position <= string_length(text))
 	{
 		show_debug_message("test")
 		print_out += "\n"
-		temp.image_yscale += 0.65
+		temp.image_yscale += 1.4
 	}
 
 	print_out += string_char_at(text,position)

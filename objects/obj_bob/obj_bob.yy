@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bob",
-    "path":"sprites/spr_bob/spr_bob.yy",
+    "name":"spr_bob_animation",
+    "path":"sprites/spr_bob_animation/spr_bob_animation.yy",
   },
   "spriteMaskId":null,
   "visible":true,

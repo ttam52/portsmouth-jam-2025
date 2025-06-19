@@ -1,1 +1,2 @@
 sprite_index = spr_mouse_hand_closed
+

@@ -11,12 +11,13 @@ function write_text(input)
 	print_out = " "
 	position = 1
 	
-	x -= ((string_length(text) / 2) * 8) / (string_length(text)/line_length)
+	x -= ((string_length(text) / 2) * 22) / (string_length(text)/line_length)
 	alarm[0] = 1
 	
-	temp = instance_create_layer(x-10,y-2.5,"Mouse_layer",obj_text_background)
+	temp = instance_create_layer(x-20,y-2.5,"Mouse_layer",obj_text_background)
 	show_debug_message(text)
-	temp.image_xscale = ((string_length(text) / 2) * 8) / (string_length(text)/line_length)/12
+	temp.image_yscale += 1.4
+	temp.image_xscale = ((string_length(text) / 2) * 18) / (string_length(text)/line_length)/12
 }
 
 function check_word_length ()

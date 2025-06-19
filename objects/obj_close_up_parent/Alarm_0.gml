@@ -6,3 +6,15 @@ if (sprite_index == spr_signature_paper)
 
 	instance_destroy()
 }
+
+else if (sprite_index == spr_certificate)
+{
+	instance_destroy()
+}
+
+else
+{
+	instance_destroy()
+}
+
+
