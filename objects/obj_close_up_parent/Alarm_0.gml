@@ -12,6 +12,12 @@ else if (sprite_index == spr_certificate)
 	instance_destroy()
 }
 
+else if (sprite_index == spr_tv_licence)
+{
+	instance_destroy(obj_tv_licence_error)
+	instance_destroy()
+}
+
 else
 {
 	instance_destroy()

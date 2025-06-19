@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_close_window",
-    "path":"sprites/spr_close_window/spr_close_window.yy",
+    "name":"spr_no",
+    "path":"sprites/spr_no/spr_no.yy",
   },
   "spriteMaskId":null,
   "visible":true,

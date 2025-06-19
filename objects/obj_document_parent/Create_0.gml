@@ -1,6 +1,5 @@
 alarm_set(0,1)
-
-
+follow_mouse = false
 //var temp = instance_create_layer(768,448,"Close_up_layer",obj_signature)
 //temp.image_xscale = 4
 //temp.image_yscale = 4

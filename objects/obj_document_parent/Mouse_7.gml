@@ -25,3 +25,5 @@ if interactable == true
 	
 		
 }
+follow_mouse = false
+global.mouse_capture = false

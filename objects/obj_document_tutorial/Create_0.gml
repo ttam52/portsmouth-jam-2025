@@ -2,6 +2,7 @@ alarm_set(0,1)
 interactable = true
 locked_in = false
 mouse_hold = false;
+follow_mouse = false
 
 if (place_meeting(x,y,obj_selected_document) == true)
 	{

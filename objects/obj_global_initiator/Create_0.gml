@@ -6,3 +6,5 @@ global.y_large_scale = 0.643077
 
 
 global.current_level = 1
+
+global.mouse_capture = false
